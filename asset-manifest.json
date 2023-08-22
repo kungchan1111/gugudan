@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gugudan/static/css/main.ec3e160b.css",
+    "main.js": "/gugudan/static/js/main.58e018b8.js",
+    "index.html": "/gugudan/index.html",
+    "main.ec3e160b.css.map": "/gugudan/static/css/main.ec3e160b.css.map",
+    "main.58e018b8.js.map": "/gugudan/static/js/main.58e018b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3e160b.css",
+    "static/js/main.58e018b8.js"
+  ]
+}
